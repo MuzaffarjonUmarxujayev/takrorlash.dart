@@ -18,5 +18,5 @@ void main() {
     print('A B dan katta bulsin');
   }
   print(summ);
-
+//Zo'r aka zor
 }
